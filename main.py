@@ -18,7 +18,7 @@ import datetime
 
 
 def sendMail():
-    # Gmail email sunucusuna bağlanıyoruz
+    
     try:
 
         gun = datetime.datetime.now().strftime("%A")
